@@ -10,7 +10,7 @@ export const Form = ({ replies, getComment }) => {
 
     let data = {
       id: "005",
-      author: "Atul Kharwal",
+      author: "Nitesh Kumar",
       body: text.current.value,
       timestamp: new Date(),
       points: "4",
